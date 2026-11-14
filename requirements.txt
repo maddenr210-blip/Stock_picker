@@ -1,0 +1,7 @@
+streamlit
+yfinance
+feedparser
+vaderSentiment
+trafilatura
+requests
+pandas
